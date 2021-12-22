@@ -8,7 +8,9 @@ You need to buy animals to the farm. There're 3 animals to choose from:
 
 (Cheap prices btw, must be an old challenge?!)
 
-You must atleast have one animal of each and the total number of animals have to be the same as the amount of money you have to spend.
+You must atleast have one animal of each and the total number of animals have to be the same as the amount of money you have to spend
+and it all has to go even.
+
 The original quest was to find the number of each animals to get 100 animals for 100 SEK but I've designed it for any integer amount.
 
 **Example**

@@ -22,7 +22,7 @@ namespace Cows
                 Console.Write("Ange belopp i hela kronor: ");
                 int amount = Input();
 
-                //Räkna ut loop boundaries
+                //Räkna ut loop boundaries, det måste gå jämt ut så minst två hönor...
                 int maxCows = (amount - 4) / 10;
                 int maxPigs = (amount - 11) / 3;
                 int maxHens = (int)((amount - 13) / 0.5);
